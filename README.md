@@ -1,0 +1,2 @@
+# SchedulerContactManager
+First Mini project
